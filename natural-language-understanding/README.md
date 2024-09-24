@@ -20,4 +20,4 @@ The script already has the best configuration from our experiments. However, the
 
 ## Acknowledgments
 
-The code is base on [fourierft](https://github.com/Chaos96/fourierft/tree/f8ab847bd7e7cb2f6a469bc5c8577fe96e5362bd/experiments/GLUE).
+The code is based on [fourierft](https://github.com/Chaos96/fourierft/tree/f8ab847bd7e7cb2f6a469bc5c8577fe96e5362bd/experiments/GLUE).
