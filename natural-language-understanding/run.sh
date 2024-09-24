@@ -14,7 +14,7 @@ do
             --bs 64  \
             --dim 32 \
             --scale $scale \
-            --seed 24 \
+            --seed 0 \
             --ne $NE
 
     done
@@ -36,7 +36,7 @@ do
             --bs 50  \
             --dim 32 \
             --scale $scale \
-            --seed 3407 \
+            --seed 0 \
             --ne $NE \
             --share_entry
     done
