@@ -17,7 +17,7 @@ If you find Lily useful, consider citing it by:
 
 ```
 @misc{zhong2024lowrankinterconnectedadaptationlayers,
-      title={Low-Rank Interconnected Adaptation Across Layers}, 
+      title={Low-Rank Interconnected Adaptation across Layers}, 
       author={Yibo Zhong and Yao Zhou},
       year={2024},
       eprint={2407.09946},
