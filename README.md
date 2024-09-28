@@ -7,7 +7,7 @@
 
 Paper link: [arxiv](https://arxiv.org/abs/2407.09946).
 
-**TL;DR**: Lily (Low-Rank Interconnected Adaptation across Layers) is a parameter-efficienct fine-tuning method with cross-layer connections, allowing each layer to access information from all other layers during the adaptation process as well as high-rank weight updates.
+**TL;DR**: Lily (Low-Rank Interconnected Adaptation across Layers) is a novel PEFT method with cross-layer connections, allowing each layer to access information from all other layers during the adaptation process, as well as high-rank weight updates.
 
 **Experiment setups from the paper are located in each subfolder.**
 
