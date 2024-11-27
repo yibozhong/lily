@@ -28,8 +28,6 @@ Read our paper on arXiv: [Low-Rank Interconnected Adaptation across Layers](http
 ## 📝 Citation
 If you find Lily useful for your research, please consider citing our paper:
 
-<details>
-<summary>BibTeX</summary>
 ```
 @misc{zhong2024lowrankinterconnectedadaptationlayers,
       title={Low-Rank Interconnected Adaptation across Layers}, 
@@ -41,4 +39,3 @@ If you find Lily useful for your research, please consider citing our paper:
       url={https://arxiv.org/abs/2407.09946}, 
 }
 ```
-</details>
