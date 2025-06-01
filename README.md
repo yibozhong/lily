@@ -28,10 +28,10 @@ Read our paper on arXiv: [Low-Rank Interconnected Adaptation across Layers](http
 If you find Lily useful for your research, consider citing our paper:
 
 ```
-@misc{zhong2024lowrankinterconnectedadaptationlayers,
+@misc{zhong2025lowrankinterconnectedadaptationlayers,
       title={Low-Rank Interconnected Adaptation across Layers}, 
-      author={Yibo Zhong and Yao Zhou},
-      year={2024},
+      author={Yibo Zhong and Jinman Zhao and Yao Zhou},
+      year={2025},
       eprint={2407.09946},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
