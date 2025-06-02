@@ -12,7 +12,7 @@
 
 ## 📌 Overview
 
-**Lily** (Low-Rank Interconnected Adaptation across Layers) is a PEFT method that aims to allow higher-rank updates with the same parameters budget.
+**Lily** (Low-Rank Interconnected Adaptation across Layers) is a PEFT method that aims to allow higher-rank and dynamic updates with the same parameters budget.
 
 <p align="center">
   <img src="image.png" alt="Lily Method Overview" width="800px"/>
